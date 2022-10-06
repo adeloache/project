@@ -1,0 +1,15 @@
+Insect_Project Column Descriptions 
+1. date of collection 
+2. Stream name -
+  NM = north mills
+  SM = south mills
+3. Reach - largest segment of the stream (1 through 5)
+4. Transect - each reach is divided into 5 smaller transects
+5. Quadrat - each transect is divided into 2 smaller quadrats corrosponing to the right side (1) or the left side (2) of the stream 
+6. Order - order of the insect collected
+7. Family - family of the insect collected 
+8. Count - number of insects of that order and family collected 
+9. Size - size of the insect 
+  small - 0-5mm
+  medium - 6-10mm
+  large - 11mm or larger
