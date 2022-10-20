@@ -159,13 +159,13 @@ ggplot(surveys, aes(x = hindfoot_length, y = plot_type)) +
 1) Add and commit this document (5 pts)
 
 ```
-#Commands here
+#done
 ```
 
 2) Push your changes to github (10 pts)
 
 ```
-#Commands here
+#it is in adeloache/project 
 ```
 
 
